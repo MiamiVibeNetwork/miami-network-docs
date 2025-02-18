@@ -81,7 +81,7 @@ The AI nodes, functioning as the backbone of the KCE, continuously scan and vali
 
 Validators under the PoT framework contribute to the network's scalability and growth. The trust score assigned to each validator reflects their overall performance and reliability, which in turn influences the transaction validation frequency. This dynamic system promotes an active, efficient, and transparent network.
 
-### PoA Validator Pool
+### PoS Validator Pool
 
 PoA validators act as an additional security layer for the network, adjusting the trust score of PoT validators based on evaluations from the AI Node Pool. This symbiotic relationship strengthens the network's resistance to malicious activities and increases overall trustworthiness.
 
